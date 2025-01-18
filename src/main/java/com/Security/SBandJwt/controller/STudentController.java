@@ -1,5 +1,6 @@
-package com.Security.SBandJwt;
+package com.Security.SBandJwt.controller;
 
+import com.Security.SBandJwt.model.Student;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.GetMapping;

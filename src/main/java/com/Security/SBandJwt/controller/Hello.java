@@ -1,4 +1,4 @@
-package com.Security.SBandJwt;
+package com.Security.SBandJwt.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;

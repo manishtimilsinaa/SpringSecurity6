@@ -1,4 +1,4 @@
-package com.Security.SBandJwt;
+package com.Security.SBandJwt.model;
 
 public class Student {
 
